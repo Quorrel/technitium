@@ -1,0 +1,35 @@
+# Niantic & SuperAwesome
+niantic.api.kws.superawesome.tv
+
+# Infrastructure & Telemetry
+sentry.ixsystems.com
+telemetry.bawaggroup.com
+sdk.out.usbla.net
+androidtvchannels-pa.googleapis.com
+
+# Social Media
+trk.pinterest.com
+api.pinterest.com
+web.facebook.com
+edge-mqtt.facebook.com
+scontent-vie1-1.xx.fbcdn.net
+
+# Reddit
+www.reddit.com
+styles.redditmedia.com
+preview.redd.it
+www.redditstatic.com
+external-preview.redd.it
+a.thumbs.redditmedia.com
+
+# Finance & Apps
+sentry.traderepublic.com
+app.adjust.io
+in.appcenter.ms
+
+# Streaming (Netflix & Meta)
+ipv4-c192-fra002-ix.1.oca.nflxvideo.net
+ipv4-c088-vie001-ix.1.oca.nflxvideo.net
+ipv4-c204-fra002-ix.1.oca.nflxvideo.net
+logs.netflix.com
+horizon.meta.com
